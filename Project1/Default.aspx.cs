@@ -8,6 +8,7 @@ using Microsoft.WindowsAzure;
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Blob;
 namespace Default
+    
 {
     public partial class Default : System.Web.UI.Page
     {
